@@ -1,6 +1,6 @@
-package ru.synergyitacademy;
+package ru.synergyitacademy.lesson1;
 
-public class Launcher {
+public class LauncherOne {
 
     /**
      * Основная точка входа в приложение
